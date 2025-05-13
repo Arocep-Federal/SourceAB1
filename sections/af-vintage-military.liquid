@@ -41,7 +41,7 @@
               <div class="animation-cropper">
                 <div class="animation-contents">
                   {%- unless section.settings.kicker == blank -%}
-                    <p class="kicker">&#91;{{ section.settings.kicker }}&#93;</p>
+                    <p class="kicker">{{ section.settings.kicker }}</p>
                   {%- endunless -%}
                   <h2>{{ section.settings.headline | newline_to_br }}</h2>
                 </div>
