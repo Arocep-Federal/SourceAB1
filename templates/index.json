@@ -22,6 +22,18 @@
         "vintage_military_overlay": "none"
       }
     },
+    "featured_collection_qKcD4D": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Featured",
+        "home_featured_products": "",
+        "per_row": 3,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -128,6 +140,7 @@
     },
     "af_text_and_image_hcF83F": {
       "type": "af-text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/AbilityOne.png",
         "image_style": "border",
@@ -149,6 +162,7 @@
     },
     "vintage_military_gYpftm": {
       "type": "vintage-military",
+      "disabled": true,
       "settings": {
         "background": "#111111",
         "fontcolor": "#ffffff",
@@ -213,6 +227,7 @@
         "partner_qrFQip",
         "partner_EMHanM"
       ],
+      "disabled": true,
       "settings": {
         "title": "Proudly Partnered With",
         "color_background": "#000000",
@@ -368,6 +383,7 @@
         "testimonial_mhbHaR",
         "testimonial_dzpdfn"
       ],
+      "disabled": true,
       "settings": {
         "title": "Don't take our word for it...",
         "round_images": true,
@@ -377,6 +393,7 @@
     },
     "hero_video_loop_Wj93AG": {
       "type": "hero-video-loop",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
@@ -392,6 +409,7 @@
     },
     "background-image-text": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Arocep Federal",
         "title": "Contracting Vehicles",
@@ -410,6 +428,7 @@
     },
     "vintage_military_UahVJC": {
       "type": "vintage-military",
+      "disabled": true,
       "settings": {
         "background": "#111111",
         "fontcolor": "#ffffff",
@@ -478,6 +497,7 @@
         "image_4U7VXy",
         "image_mCakBX"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
@@ -854,6 +874,7 @@
         "logo_image_yzQGdw",
         "logo_image_YppcGm"
       ],
+      "disabled": true,
       "settings": {
         "title": "Federal Agencies Served",
         "font_color": "#ffffff",
@@ -864,6 +885,7 @@
     },
     "af_hero_HRYfwB": {
       "type": "af-hero",
+      "disabled": true,
       "settings": {
         "fontcolor": "#ffffff",
         "kicker": "Proud to Be",
@@ -883,6 +905,7 @@
   },
   "order": [
     "af_vintage_military_X6nPTr",
+    "featured_collection_qKcD4D",
     "featured-collections",
     "rich_text_bKrQYe",
     "af_text_and_image_hcF83F",
