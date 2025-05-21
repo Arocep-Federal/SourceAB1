@@ -36,18 +36,18 @@
         "divider": false
       }
     },
-    "af_featured_product_VpttF9": {
-      "type": "af-featured-product",
+    "featured_product_CyYtxP": {
+      "type": "featured-product",
       "blocks": {
-        "price_76J8Uk": {
+        "price_F4PJUk": {
           "type": "price",
           "settings": {}
         },
-        "separator_X3FAxy": {
+        "separator_rLfVML": {
           "type": "separator",
           "settings": {}
         },
-        "variant_picker_NnhgaE": {
+        "variant_picker_PrNA9C": {
           "type": "variant_picker",
           "settings": {
             "variant_labels": true,
@@ -56,7 +56,7 @@
             "color_swatches": false
           }
         },
-        "buy_buttons_DJxkq8": {
+        "buy_buttons_YEHrUd": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
@@ -64,7 +64,7 @@
             "show_gift_card_recipient": false
           }
         },
-        "description_8ER7BR": {
+        "description_4gaXDD": {
           "type": "description",
           "settings": {
             "is_tab": false
@@ -72,18 +72,17 @@
         }
       },
       "block_order": [
-        "price_76J8Uk",
-        "separator_X3FAxy",
-        "variant_picker_NnhgaE",
-        "buy_buttons_DJxkq8",
-        "description_8ER7BR"
+        "price_F4PJUk",
+        "separator_rLfVML",
+        "variant_picker_PrNA9C",
+        "buy_buttons_YEHrUd",
+        "description_4gaXDD"
       ],
-      "name": "AF Featured Product",
+      "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
         "featured_product": "12-month-ruled-desk-pad-white-sheets-w-black-binding-2023",
         "divider": false,
-        "sku_enable": false,
-        "heading_color": "#000",
+        "sku_enable": true,
         "image_size": "medium",
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
@@ -115,7 +114,7 @@
   "order": [
     "af_vintage_military_X6nPTr",
     "af_featured_category_mE6Phb",
-    "af_featured_product_VpttF9",
+    "featured_product_CyYtxP",
     "af_hero_HRYfwB"
   ]
 }
