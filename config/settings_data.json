@@ -95,11 +95,6 @@
         "type": "shopify://apps/thanhbt-file-upload/blocks/thanhbt-file-upload/0bc3b106-12d9-4de0-a0c6-dadcedb2d9c5",
         "disabled": false,
         "settings": {}
-      },
-      "14082181514032464150": {
-        "type": "shopify://apps/o-request-a-quote/blocks/omgrfq_script/5f4ac0e6-8a57-4f3d-853e-0194eab86273",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
