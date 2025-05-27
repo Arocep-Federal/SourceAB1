@@ -38,6 +38,53 @@
         "divider": false
       }
     },
+    "slideshow_X7Aa6A": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jCVc4q": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "target": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_fCdti3": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "target": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_jCVc4q",
+        "image_fCdti3"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "featured_product_CyYtxP": {
       "type": "featured-product",
       "blocks": {
@@ -93,32 +140,13 @@
         "product_video_style": "muted"
       }
     },
-    "af_hero_HRYfwB": {
-      "type": "af-hero",
-      "disabled": true,
-      "settings": {
-        "fontcolor": "#ffffff",
-        "kicker": "Proud to Be",
-        "headline": "Woman Owned",
-        "subheadline": "Arocep Federal, LLC is a Woman-Owned Small Business GSA-certified schedule holder headquartered in Chicagoland's southwest suburbs.",
-        "button_label": "",
-        "button_link": "",
-        "text_align": "vertical-bottom horizontal-right",
-        "image": "shopify://shop_images/bg-woman-owned.png",
-        "focal_point": "20% 50%",
-        "color_border": "#f4f4f4",
-        "height": 450,
-        "parallax": true,
-        "vintage_military_overlay": "none"
-      }
-    },
     "af_featured_category_8ajYEe": {
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
       "settings": {
         "title": "Best Sellers",
         "subtitle": "This & That",
-        "background-color": "#ff0000",
+        "background-color": "#a71b1b",
         "text-color": "#ffffff",
         "home_featured_products": "best-sellers",
         "per_row": 4,
@@ -131,8 +159,8 @@
   "order": [
     "af_vintage_military_X6nPTr",
     "af_featured_category_mE6Phb",
+    "slideshow_X7Aa6A",
     "featured_product_CyYtxP",
-    "af_hero_HRYfwB",
     "af_featured_category_8ajYEe"
   ]
 }
