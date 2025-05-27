@@ -23,6 +23,34 @@
         "vintage_military_overlay": "none"
       }
     },
+    "partner_text_rUXN8d": {
+      "type": "partner-text",
+      "blocks": {
+        "heading_VJYRUn": {
+          "type": "heading",
+          "settings": {
+            "title": "The AbilityOne Program"
+          }
+        },
+        "text_EhXWaU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>creates employment and training opportunities for 45,000 people across the country who are blind or have other significant disabilities through the sale of SKILCRAFT® and other products and services.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VJYRUn",
+        "text_EhXWaU"
+      ],
+      "name": "AF Partner Text",
+      "settings": {
+        "align_text": "center",
+        "font_size": 32,
+        "backgroundcolor": "#006dc6",
+        "fontcolor": "#ffffff"
+      }
+    },
     "af_featured_category_mE6Phb": {
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
@@ -156,6 +184,7 @@
   },
   "order": [
     "af_vintage_military_X6nPTr",
+    "partner_text_rUXN8d",
     "af_featured_category_mE6Phb",
     "partner_text_with_icons_7dEt3L",
     "featured_product_CyYtxP",
