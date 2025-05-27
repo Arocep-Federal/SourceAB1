@@ -13,8 +13,8 @@
       "type": "af-vintage-military",
       "name": "AF Vintage Military Hero",
       "settings": {
-        "kicker": "The",
-        "headline": "Federal Distribution",
+        "kicker": "",
+        "headline": "The Federal Distribution",
         "subheadline": "Channel of Choice",
         "text_align": "vertical-center horizontal-center",
         "image": "shopify://shop_images/sab1_hero2.jpg",
