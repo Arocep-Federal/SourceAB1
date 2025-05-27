@@ -103,7 +103,7 @@
       ],
       "name": "Partner Text with Icons",
       "settings": {
-        "bg_color": "#21447e",
+        "bg_color": "rgba(0,0,0,0)",
         "image": "shopify://shop_images/bg5-ab1.jpg",
         "title": "Program Standards",
         "align_text": "center",
