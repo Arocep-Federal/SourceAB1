@@ -170,8 +170,8 @@
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
       "settings": {
-        "title": "Best Sellers",
-        "subtitle": "This & That",
+        "title": "Shop Best Sellers",
+        "subtitle": "",
         "background-color": "#a71b1b",
         "text-color": "#ffffff",
         "home_featured_products": "best-sellers",
