@@ -38,53 +38,6 @@
         "divider": false
       }
     },
-    "slideshow_X7Aa6A": {
-      "type": "slideshow",
-      "blocks": {
-        "image_jCVc4q": {
-          "type": "image",
-          "settings": {
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
-            "target": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_fCdti3": {
-          "type": "image",
-          "settings": {
-            "title": "Two line\nslide titles.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "target": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_jCVc4q",
-        "image_fCdti3"
-      ],
-      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "featured_product_CyYtxP": {
       "type": "featured-product",
       "blocks": {
@@ -159,7 +112,6 @@
   "order": [
     "af_vintage_military_X6nPTr",
     "af_featured_category_mE6Phb",
-    "slideshow_X7Aa6A",
     "featured_product_CyYtxP",
     "af_featured_category_8ajYEe"
   ]
