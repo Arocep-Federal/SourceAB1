@@ -23,6 +23,36 @@
         "vintage_military_overlay": "none"
       }
     },
+    "partner_text_FC8pm9": {
+      "type": "partner-text",
+      "blocks": {
+        "heading_JdUgMr": {
+          "type": "heading",
+          "settings": {
+            "title": "Partner Name"
+          }
+        },
+        "text_bhxwf7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><b>Empowering Our Partners:</b><br/> Delivering Exceptional Solutions, Simplifying Procurement, and Enabling Mission Success.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JdUgMr",
+        "text_bhxwf7"
+      ],
+      "name": "AF Partner Text",
+      "settings": {
+        "align_text": "center",
+        "font_size": 32,
+        "backgroundcolor": "rgba(0,0,0,0)",
+        "image": "shopify://shop_images/bg-ab1.jpg",
+        "link": "",
+        "fontcolor": "#000"
+      }
+    },
     "partner_text_rUXN8d": {
       "type": "partner-text",
       "blocks": {
@@ -186,6 +216,7 @@
   },
   "order": [
     "af_vintage_military_X6nPTr",
+    "partner_text_FC8pm9",
     "partner_text_rUXN8d",
     "af_featured_category_mE6Phb",
     "partner_text_with_icons_7dEt3L",
