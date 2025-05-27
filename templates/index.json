@@ -111,12 +111,28 @@
         "parallax": true,
         "vintage_military_overlay": "none"
       }
+    },
+    "af_featured_category_8ajYEe": {
+      "type": "af-featured-category",
+      "name": "AF Featured Categoy",
+      "settings": {
+        "title": "Best Sellers",
+        "subtitle": "This & That",
+        "background-color": "#ff0000",
+        "text-color": "#ffffff",
+        "home_featured_products": "best-sellers",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "af_vintage_military_X6nPTr",
     "af_featured_category_mE6Phb",
     "featured_product_CyYtxP",
-    "af_hero_HRYfwB"
+    "af_hero_HRYfwB",
+    "af_featured_category_8ajYEe"
   ]
 }
