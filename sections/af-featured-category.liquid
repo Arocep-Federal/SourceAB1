@@ -54,6 +54,11 @@
               <a href="{{ collections[section.settings.home_featured_products].url }}" class="section-header__link">{{ 'collections.general.all_of_collection' | t }}</a>
             {% endif %}
           </h2>
+          <h3 class="section-header__subtitle">
+            {% if section.settings.subtitle != blank %}
+              {{ section.settings.subtitle }}
+            {% endif %}
+          </h3>
         </div>
       </div>
     {% endif %}
@@ -129,6 +134,12 @@
         "id": "title",
         "label": "t:sections.featured-collection.settings.title.label",
         "default": "Featured Category"
+      },
+      {
+        "type": "text",
+        "id": "subtitle",
+        "label": "Subtitle",
+        "default": "This & That"
       },
       {
         "type": "color",
