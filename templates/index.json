@@ -27,9 +27,9 @@
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
       "settings": {
-        "title": "Shop Abilityone",
+        "title": "6000+ Products ready to ship",
         "background-color": "#ececec",
-        "text-color": "",
+        "text-color": "#000000",
         "home_featured_products": "abilityone-catalog",
         "per_row": 4,
         "rows": 1,
