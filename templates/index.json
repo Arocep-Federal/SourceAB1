@@ -38,6 +38,51 @@
         "divider": false
       }
     },
+    "partner_text_with_icons_7dEt3L": {
+      "type": "partner-text-with-icons",
+      "blocks": {
+        "text_block_nXqfbW": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "Provide Jobs",
+            "text": "<p>Strive to provide job opportunities that allow people with significant <br/>disabilities to acquire skills that prepare them, whenever possible, for<br/> competitive employment.</p>"
+          }
+        },
+        "text_block_GG8g87": {
+          "type": "text_block",
+          "settings": {
+            "icon": "wallet",
+            "title": "Fair Market",
+            "text": "<p>Ensure AbilityOne products and services meet customer quality requirements at a fair market price.</p>"
+          }
+        },
+        "text_block_rJwhx4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "Easy Access",
+            "text": "<p>Work with both federal and commercial distributing agencies to ensure <br/>that AbilityOne products are easily identifiable and accessible.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_nXqfbW",
+        "text_block_GG8g87",
+        "text_block_rJwhx4"
+      ],
+      "name": "Partner Text with Icons",
+      "settings": {
+        "bg_color": "#9f0000",
+        "title": "Program Standards",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "h2_color": "#ffffff",
+        "icon_color": "#ffffff",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "featured_product_CyYtxP": {
       "type": "featured-product",
       "blocks": {
@@ -112,6 +157,7 @@
   "order": [
     "af_vintage_military_X6nPTr",
     "af_featured_category_mE6Phb",
+    "partner_text_with_icons_7dEt3L",
     "featured_product_CyYtxP",
     "af_featured_category_8ajYEe"
   ]
