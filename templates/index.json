@@ -23,37 +23,6 @@
         "vintage_military_overlay": "none"
       }
     },
-    "rich_text_p7Cffb": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_PqbEWL": {
-          "type": "heading",
-          "settings": {
-            "title": "Our Mission"
-          }
-        },
-        "text_JVp9yY": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Empowering Federal Excellence:</strong><br/> Delivering Exceptional Solutions, Simplifying Procurement, and Enabling Mission Success.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_PqbEWL",
-        "text_JVp9yY"
-      ],
-      "custom_css": [],
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "font_size": 32,
-        "backgroundcolor": "#000",
-        "fontcolor": "#fff",
-        "bgimage": "shopify://shop_images/bg-ab1.jpg",
-        "narrow_column": true
-      }
-    },
     "partner_text_rUXN8d": {
       "type": "partner-text",
       "blocks": {
@@ -215,7 +184,6 @@
   },
   "order": [
     "af_vintage_military_X6nPTr",
-    "rich_text_p7Cffb",
     "partner_text_rUXN8d",
     "af_featured_category_mE6Phb",
     "partner_text_with_icons_7dEt3L",
