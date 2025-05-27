@@ -28,7 +28,7 @@
       "name": "AF Featured Categoy",
       "settings": {
         "title": "Shop Abilityone",
-        "background-color": "",
+        "background-color": "#ececec",
         "text-color": "",
         "home_featured_products": "abilityone-catalog",
         "per_row": 4,
