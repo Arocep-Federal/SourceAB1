@@ -17,6 +17,7 @@
         "headline": "Federal Distribution",
         "subheadline": "Channel of Choice",
         "text_align": "vertical-center horizontal-center",
+        "image": "shopify://shop_images/sab1_hero.jpg",
         "link": "",
         "link_text": "Optional button",
         "vintage_military_overlay": "none"
