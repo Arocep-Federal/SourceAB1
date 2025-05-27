@@ -27,7 +27,8 @@
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
       "settings": {
-        "title": "6000+ Products Ready to Ship",
+        "title": "6000+ Products – Ready to Ship",
+        "subtitle": "From Office Essentials to Tactical Gear—We’ve Got You Covered",
         "background-color": "#ececec",
         "text-color": "#000000",
         "home_featured_products": "abilityone-catalog",
