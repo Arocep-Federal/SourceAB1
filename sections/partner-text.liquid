@@ -2,10 +2,10 @@
 
    .shopify-section:has(.vintage-military-{{ section.id }}) {
       background-color: {{ section.settings.backgroundcolor }};
-      background-image: url({{ section.settings.image }};);
       color: {{ section.settings.fontcolor }};
+      background-image: url({{ section.settings.image | image_url:width:auto }});
       background-position: center;
-      background-size:cover;
+      background-size:cover;l
       background-repeat: no-repeat;
     }
 
