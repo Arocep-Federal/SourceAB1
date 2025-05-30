@@ -21,13 +21,13 @@
 
 
   .shopify-section:has(.vintage-military-{{ section.id }}) {
-        background-color: {{ section.settings.backgroundcolor }};
-        color: {{ section.settings.fontcolor }};
-        background-image: url({{ section.settings.image | image_url:width:auto }});
-        background-position: center;
-        background-size:cover;l
-        background-repeat: no-repeat;
-      }
+    background-color: {{ section.settings.backgroundcolor }};
+    color: {{ section.settings.fontcolor }};
+    background-image: url({{ section.settings.image | image_url:width:auto }});
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
 
   .vintage-military-{{ section.id }} a {
     color: {{ section.settings.text-color }}
