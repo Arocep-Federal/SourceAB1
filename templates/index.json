@@ -121,7 +121,7 @@
       "settings": {
         "title": "Shop Best Sellers",
         "subtitle": "",
-        "background-color": "#e6e6e6",
+        "background-color": "#effbff",
         "text-color": "#292929",
         "home_featured_products": "best-sellers",
         "per_row": 4,
