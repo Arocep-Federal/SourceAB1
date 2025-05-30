@@ -12,7 +12,7 @@
   .shopify-section:has(.vintage-military-{{ section.id }}) {
     padding:100px 0;
     background-color: {{ section.settings.background-color }};
-    background-image: url({{ section.settings.image | image_url:width:auto }});
+    background-image: url({{ section.settings.bg-image | image_url:width:auto }});
     color: {{ section.settings.text-color }};
     background-position: center;
     background-size:cover;l
@@ -163,22 +163,17 @@
     {
       "type": "color",
       "id": "background-color",
-      "label": "Backround Color"
+      "label": "Background Color"
     },
     {
       "type": "image_picker",
-      "id": "image",
+      "id": "bg-image",
       "label": "Background Image"
     },
     {
       "type": "color",
       "id": "text-color",
       "label": "Text Color"
-    },
-    {
-      "type": "image_picker",
-      "id": "image",
-      "label": "Image"
     },
     {
       "type": "collection",
