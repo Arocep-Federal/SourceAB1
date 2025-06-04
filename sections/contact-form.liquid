@@ -9,6 +9,15 @@
       margin-right:0
     }
   }
+
+  .index-section--{{ section.id }} {
+    background:url({{ section.settings.bgimage | image_url:width:auto }});
+    background-size:cover;
+    background-position:bottom;
+    height:650px;
+    width:100%;
+    position:relative;
+  }
   /* .index-section--{{ section.id }} .section-header { margin-top:100px;} */
   .index-section--{{ section.id }} label { display:none }
   .index-section--{{ section.id }} input,
@@ -160,6 +169,11 @@
   "name": "t:sections.contact-form.name",
   "class": "index-section",
   "settings": [
+    {
+      "type": "image_picker",
+      "id": "bgimage",
+      "label": "Bakground Image"
+    },
     {
       "type": "paragraph",
       "content": "Text here..."
