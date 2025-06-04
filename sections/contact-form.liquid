@@ -10,6 +10,15 @@
     }
   }
 
+
+}
+@media only screen and (min-width: 590px) {
+  .index-section:has(.index-section--{{ section.id }}) {
+    padding:0;
+  }
+
+ }
+
   .index-section--{{ section.id }} {
     background:url({{ section.settings.bgimage | image_url:width:auto }});
     background-size:cover;
