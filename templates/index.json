@@ -121,8 +121,9 @@
       "settings": {
         "title": "Shop Our Best Sellers",
         "subtitle": "",
-        "background-color": "#749bd8",
-        "text-color": "#292929",
+        "background-color": "rgba(0,0,0,0)",
+        "bg-image": "shopify://shop_images/bg10-ab1.jpg",
+        "text-color": "#f4f4f4",
         "home_featured_products": "best-sellers",
         "per_row": 4,
         "rows": 1,
