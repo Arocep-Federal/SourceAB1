@@ -96,13 +96,13 @@
         "title": "Our Values",
         "fontcolor": "#ffffff",
         "align_text": "center",
-        "bgimage": "shopify://shop_images/bg-about.jpg"
+        "bgimage": "shopify://shop_images/bg13-ab1.jpg"
       }
     },
     "af_text_and_image_rvrsbl_CY3FVd": {
       "type": "af-text-and-image-rvrsbl",
       "settings": {
-        "bg-color": "#000000",
+        "bg-color": "#052037",
         "color": "#ffffff",
         "image": "shopify://shop_images/AdobeStock_271352220_2_Large_bff3a230-d28e-4d50-8dfc-b8a80109a954.jpg",
         "subtitle": "",
@@ -123,7 +123,7 @@
     "af_text_and_image_rvrsbl_RRk8B6": {
       "type": "af-text-and-image-rvrsbl",
       "settings": {
-        "bg-color": "#000000",
+        "bg-color": "#052037",
         "color": "#ffffff",
         "image": "shopify://shop_images/AdobeStock_271345578_2_Large_50a84d5e-81c4-42ce-8a0c-1b344f223dba.jpg",
         "subtitle": "",
@@ -144,7 +144,7 @@
     "af_text_and_image_rvrsbl_hGCtLt": {
       "type": "af-text-and-image-rvrsbl",
       "settings": {
-        "bg-color": "#000000",
+        "bg-color": "#052037",
         "color": "#ffffff",
         "image": "shopify://shop_images/AdobeStock_523109905_Large_7e1936f9-3258-4811-8b32-4e3b8fbb688a.jpg",
         "subtitle": "",
