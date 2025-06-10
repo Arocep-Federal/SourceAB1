@@ -131,6 +131,21 @@
         "button_link": ""
       }
     },
+    "af_featured_category_NJCBxY": {
+      "type": "af-featured-category",
+      "name": "AF Featured Categoy",
+      "settings": {
+        "title": "Featured Category",
+        "subtitle": "This & That",
+        "background-color": "",
+        "text-color": "",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "af_featured_category_8ajYEe": {
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
@@ -209,6 +224,7 @@
     "af_featured_category_HpAaBm",
     "af_featured_category_mE6Phb",
     "partner_text_with_icons_7dEt3L",
+    "af_featured_category_NJCBxY",
     "af_featured_category_8ajYEe",
     "featured_product_CyYtxP"
   ]
