@@ -53,6 +53,22 @@
         "fontcolor": "#ffffff"
       }
     },
+    "af_featured_category_HpAaBm": {
+      "type": "af-featured-category",
+      "name": "AF Featured Categoy",
+      "settings": {
+        "title": "Filing Solutions",
+        "subtitle": "",
+        "background-color": "rgba(0,0,0,0)",
+        "bg-image": "shopify://shop_images/bg19-ab1.jpg",
+        "text-color": "#ffffff",
+        "home_featured_products": "file-folders-portable-storage-box-files",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "af_featured_category_mE6Phb": {
       "type": "af-featured-category",
       "name": "AF Featured Categoy",
@@ -190,6 +206,7 @@
   "order": [
     "af_vintage_military_X6nPTr",
     "partner_text_rUXN8d",
+    "af_featured_category_HpAaBm",
     "af_featured_category_mE6Phb",
     "partner_text_with_icons_7dEt3L",
     "af_featured_category_8ajYEe",
