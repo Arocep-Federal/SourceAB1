@@ -138,7 +138,7 @@
         "title": "Shop Our Best Sellers",
         "subtitle": "",
         "background-color": "rgba(0,0,0,0)",
-        "bg-image": "shopify://shop_images/bg-stars-grey-sab1.jpg",
+        "bg-image": "shopify://shop_images/bg-stars2-grey-sab1.jpg",
         "text-color": "#f4f4f4",
         "home_featured_products": "best-sellers",
         "per_row": 4,
