@@ -13,14 +13,30 @@
       "type": "af-vintage-military",
       "name": "AF Vintage Military Hero",
       "settings": {
-        "kicker": "",
-        "headline": "The Federal Distribution",
-        "subheadline": "Channel of Choice",
+        "kicker": "The Federal Distribution",
+        "headline": "Channel of Choice",
+        "subheadline": "Empowering Procurement. Enabling Purpose.",
         "text_align": "vertical-center horizontal-center",
         "image": "shopify://shop_images/sab1_hero2.jpg",
-        "link": "",
-        "link_text": "Optional button",
+        "link": "shopify://collections/all",
+        "link_text": "Shop Now",
         "vintage_military_overlay": "none"
+      }
+    },
+    "af_featured_category_mE6Phb": {
+      "type": "af-featured-category",
+      "name": "AF Featured Categoy",
+      "settings": {
+        "title": "6000+ Products – Ready to Ship",
+        "subtitle": "From Office Essentials to Tactical Gear—We’ve Got You Covered",
+        "background-color": "#ececec",
+        "bg-image": "shopify://shop_images/bg.201.30.-32-ab1.jpg",
+        "text-color": "#ffffff",
+        "home_featured_products": "abilityone-catalog",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
       }
     },
     "partner_text_rUXN8d": {
@@ -63,22 +79,6 @@
         "bg-image": "shopify://shop_images/bg.201.2.-15-ab1.jpg",
         "text-color": "#ffffff",
         "home_featured_products": "file-folders-portable-storage-box-files",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "af_featured_category_mE6Phb": {
-      "type": "af-featured-category",
-      "name": "AF Featured Categoy",
-      "settings": {
-        "title": "6000+ Products – Ready to Ship",
-        "subtitle": "From Office Essentials to Tactical Gear—We’ve Got You Covered",
-        "background-color": "#ececec",
-        "bg-image": "shopify://shop_images/bg.201.30.-32-ab1.jpg",
-        "text-color": "#ffffff",
-        "home_featured_products": "abilityone-catalog",
         "per_row": 4,
         "rows": 1,
         "view_all": true,
@@ -138,7 +138,7 @@
         "title": "Shop Our Best Sellers",
         "subtitle": "",
         "background-color": "rgba(0,0,0,0)",
-        "bg-image": "shopify://shop_images/bg-stars2-grey-sab1.jpg",
+        "bg-image": "shopify://shop_images/bg.201.30.-32-ab1.jpg",
         "text-color": "#f4f4f4",
         "home_featured_products": "best-sellers",
         "per_row": 4,
@@ -201,15 +201,32 @@
         "enable_video_looping": false,
         "product_video_style": "muted"
       }
+    },
+    "af_featured_category_ADVbRe": {
+      "type": "af-featured-category",
+      "name": "AF Featured Categoy",
+      "settings": {
+        "title": "Medical Grade Gloves",
+        "subtitle": "",
+        "background-color": "",
+        "bg-image": "shopify://shop_images/bg-stars2-grey-sab1.jpg",
+        "text-color": "#ffffff",
+        "home_featured_products": "ink-toners",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "af_vintage_military_X6nPTr",
+    "af_featured_category_mE6Phb",
     "partner_text_rUXN8d",
     "af_featured_category_HpAaBm",
-    "af_featured_category_mE6Phb",
     "partner_text_with_icons_7dEt3L",
     "af_featured_category_8ajYEe",
-    "featured_product_CyYtxP"
+    "featured_product_CyYtxP",
+    "af_featured_category_ADVbRe"
   ]
 }
