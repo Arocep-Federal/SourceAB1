@@ -173,6 +173,9 @@
         "buy_buttons_YEHrUd",
         "description_4gaXDD"
       ],
+      "custom_css": [
+        "{background-color: lightgrey;}"
+      ],
       "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
         "featured_product": "skilcraft-toilet-tissue-2-ply-white-550-sheets-roll-40-rolls-box",
