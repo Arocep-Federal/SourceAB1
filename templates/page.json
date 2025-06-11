@@ -102,7 +102,7 @@
     "af_text_and_image_rvrsbl_CY3FVd": {
       "type": "af-text-and-image-rvrsbl",
       "settings": {
-        "bg-color": "#052037",
+        "bg-color": "#274c6c",
         "color": "#ffffff",
         "image": "shopify://shop_images/abt_mission.jpg",
         "subtitle": "",
