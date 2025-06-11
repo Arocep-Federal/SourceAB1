@@ -77,7 +77,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/icon_0000_purpose.png",
+            "image": "shopify://shop_images/icon_0001_purpose.png",
             "image_mask": "square",
             "image_width": 250,
             "title": "Purpose",
