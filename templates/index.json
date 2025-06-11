@@ -18,8 +18,8 @@
         "subheadline": "Empowering Procurement. Enabling Purpose.",
         "text_align": "vertical-center horizontal-center",
         "image": "shopify://shop_images/sab1_hero2.jpg",
-        "link": "shopify://collections/all",
-        "link_text": "Shop Now",
+        "link": "shopify://pages/request-for-quote-1",
+        "link_text": "Get Procurement Support",
         "vintage_military_overlay": "none"
       }
     },
