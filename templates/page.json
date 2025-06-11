@@ -17,9 +17,9 @@
     "af_vintage_military_DNPeCA": {
       "type": "af-vintage-military",
       "settings": {
-        "kicker": "Driving Purpose Through Every Procurement",
-        "headline": "",
-        "subheadline": "Delivering Exceptional Solutions, Simplifying Procurement, and Enabling Mission Success.",
+        "kicker": "",
+        "headline": "Driving Purpose Through Every Procurement",
+        "subheadline": "As a brand of Arocep Federal, LLC, a GSA-certified federal contractor, we deliver more than products—we deliver impact.",
         "text_align": "vertical-bottom horizontal-center",
         "image": "shopify://shop_images/sab1_hero13.jpg",
         "link": "",
@@ -54,8 +54,8 @@
             "image": "shopify://shop_images/icon_0001_teamwork.png",
             "image_mask": "square",
             "image_width": 250,
-            "title": "Teamwork",
-            "text": "<p>We collaborate with our customers, partners, and each other to achieve a common goal: supporting the brave men and women who protect our nation.</p>",
+            "title": "Partnership",
+            "text": "<p>We work in lockstep with AbilityOne® nonprofits</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -67,8 +67,8 @@
             "image": "shopify://shop_images/icon_0002_excellence.png",
             "image_mask": "square",
             "image_width": 250,
-            "title": "Excellence",
-            "text": "<p>We strive for perfection in every aspect of our work, knowing that our efforts directly impact the safety and success of our military personnel.</p>",
+            "title": "Performance",
+            "text": "<p>Backed by over 20 years of federal contracting success.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -77,11 +77,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/icon_0000_innovation.png",
+            "image": "shopify://shop_images/icon_0000_purpose.png",
             "image_mask": "square",
             "image_width": 250,
-            "title": "Innovation",
-            "text": "<p>We leverage cutting edge solutions and best practices to stay ahead of the evolving needs of our federal customers.</p>",
+            "title": "Purpose",
+            "text": "<p>Every order supports the AbilityOne® workforce</p>",
             "button_label": "",
             "button_link": ""
           }
