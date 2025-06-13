@@ -11,7 +11,6 @@
   "sections": {
     "af_vintage_military_X6nPTr": {
       "type": "af-vintage-military",
-      "name": "AF Vintage Military Hero",
       "settings": {
         "kicker": "The Federal",
         "headline": "Distribution Channel of Choice",
@@ -25,12 +24,10 @@
     },
     "af_featured_category_mE6Phb": {
       "type": "af-featured-category",
-      "name": "AF Featured Categoy",
       "settings": {
         "title": "Shop Our Best Sellers",
         "subtitle": "Over 6,000 AbilityOne®-authorized products for federal buyers—delivered fast, with full compliance.",
-        "background-color": "#ececec",
-        "bg-image": "shopify://shop_images/bg.201.30.-32-ab1.jpg",
+        "background-color": "#002974",
         "text-color": "#ffffff",
         "home_featured_products": "abilityone-catalog",
         "per_row": 4,
@@ -59,7 +56,6 @@
         "heading_VJYRUn",
         "text_EhXWaU"
       ],
-      "name": "AF Partner Text",
       "settings": {
         "align_text": "center",
         "font_size": 32,
@@ -71,12 +67,10 @@
     },
     "af_featured_category_HpAaBm": {
       "type": "af-featured-category",
-      "name": "AF Featured Categoy",
       "settings": {
         "title": "Filing Solutions",
         "subtitle": "",
-        "background-color": "rgba(0,0,0,0)",
-        "bg-image": "shopify://shop_images/bg.201.2.-15-ab1.jpg",
+        "background-color": "#490000",
         "text-color": "#ffffff",
         "home_featured_products": "file-folders-portable-storage-box-files",
         "per_row": 4,
@@ -118,7 +112,6 @@
         "text_block_GG8g87",
         "text_block_rJwhx4"
       ],
-      "name": "Partner Text with Icons",
       "settings": {
         "bg_color": "rgba(0,0,0,0)",
         "image": "shopify://shop_images/bg17-ab1.jpg",
@@ -174,9 +167,8 @@
         "description_4gaXDD"
       ],
       "custom_css": [
-        "{background-color: lightgrey;}"
+        "{color: white; background-color: #002974;}"
       ],
-      "name": "t:sections.featured-product.presets.featured_product.name",
       "settings": {
         "featured_product": "skilcraft-toilet-tissue-2-ply-white-550-sheets-roll-40-rolls-box",
         "divider": false,
@@ -191,12 +183,10 @@
     },
     "af_featured_category_ADVbRe": {
       "type": "af-featured-category",
-      "name": "AF Featured Categoy",
       "settings": {
         "title": "Medical Grade Gloves",
         "subtitle": "",
-        "background-color": "",
-        "bg-image": "shopify://shop_images/bg-stars2-grey-sab1.jpg",
+        "background-color": "#490000",
         "text-color": "#ffffff",
         "home_featured_products": "ink-toners",
         "per_row": 4,
