@@ -11,6 +11,9 @@
   "sections": {
     "af_vintage_military_X6nPTr": {
       "type": "af-vintage-military",
+      "custom_css": [
+        "h2 {color: white}"
+      ],
       "settings": {
         "kicker": "The Federal",
         "headline": "Distribution Channel of Choice",
@@ -184,7 +187,7 @@
     "af_featured_category_ADVbRe": {
       "type": "af-featured-category",
       "custom_css": [
-        "h2 {color: white}"
+        "h2 {color: white;}"
       ],
       "settings": {
         "title": "Medical Grade Gloves",
