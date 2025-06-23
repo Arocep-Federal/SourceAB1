@@ -12,14 +12,14 @@
     "af_vintage_military_X6nPTr": {
       "type": "af-vintage-military",
       "custom_css": [
-        "h2 {color: white}"
+        "h2 {color: white;}"
       ],
       "settings": {
         "kicker": "The Federal",
         "headline": "Distribution Channel of Choice",
         "subheadline": "Empowering Procurement. Enabling Purpose.",
         "text_align": "vertical-center horizontal-center",
-        "image": "shopify://shop_images/sab1_hero2.jpg",
+        "image": "shopify://shop_images/feature_sourceabilityone.jpg",
         "link": "shopify://pages/request-for-quote-1",
         "link_text": "Get Procurement Support",
         "vintage_military_overlay": "none"
