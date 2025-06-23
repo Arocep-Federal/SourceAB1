@@ -70,8 +70,8 @@
       "settings": {
         "title": "Filing Solutions",
         "subtitle": "",
-        "background-color": "#490000",
-        "text-color": "#ffffff",
+        "background-color": "#ffffff",
+        "text-color": "#002974",
         "home_featured_products": "file-folders-portable-storage-box-files",
         "per_row": 4,
         "rows": 1,
@@ -113,13 +113,13 @@
         "text_block_rJwhx4"
       ],
       "settings": {
-        "bg_color": "rgba(0,0,0,0)",
-        "image": "shopify://shop_images/bg17-ab1.jpg",
+        "bg_color": "#d7ebff",
+        "image": "shopify://shop_images/bg22-ab1.jpg",
         "title": "Program Standards",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "h2_color": "#ffffff",
-        "icon_color": "#ffffff",
+        "h2_color": "#002974",
+        "icon_color": "#002974",
         "button_label": "",
         "button_link": ""
       }
@@ -167,7 +167,7 @@
         "description_4gaXDD"
       ],
       "custom_css": [
-        "{color: white; background-color: #002974;}"
+        "{color: #005799; background-color: white;}"
       ],
       "settings": {
         "featured_product": "skilcraft-toilet-tissue-2-ply-white-550-sheets-roll-40-rolls-box",
@@ -186,8 +186,8 @@
       "settings": {
         "title": "Medical Grade Gloves",
         "subtitle": "",
-        "background-color": "#490000",
-        "text-color": "#ffffff",
+        "background-color": "#ffffff",
+        "text-color": "#002974",
         "home_featured_products": "ink-toners",
         "per_row": 4,
         "rows": 1,
