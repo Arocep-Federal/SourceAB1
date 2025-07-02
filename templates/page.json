@@ -16,6 +16,9 @@
     },
     "af_vintage_military_DNPeCA": {
       "type": "af-vintage-military",
+      "custom_css": [
+        "* {color: white}"
+      ],
       "settings": {
         "kicker": "",
         "headline": "Driving Purpose Through Every Procurement",
@@ -92,15 +95,21 @@
         "text_block_fGyd9k",
         "text_block_UhaLAf"
       ],
+      "custom_css": [
+        "* {color: white;}"
+      ],
       "settings": {
         "title": "Our Values",
         "fontcolor": "#ffffff",
         "align_text": "center",
-        "bgimage": "shopify://shop_images/bg20-ab1.jpg"
+        "bgimage": "shopify://shop_images/bg25-ab1.jpg"
       }
     },
     "af_text_and_image_rvrsbl_CY3FVd": {
       "type": "af-text-and-image-rvrsbl",
+      "custom_css": [
+        "* {color: white;}"
+      ],
       "settings": {
         "bg-color": "#274c6c",
         "color": "#ffffff",
@@ -122,6 +131,9 @@
     },
     "af_text_and_image_rvrsbl_RRk8B6": {
       "type": "af-text-and-image-rvrsbl",
+      "custom_css": [
+        "* {color: white;}"
+      ],
       "settings": {
         "bg-color": "#052037",
         "color": "#ffffff",
@@ -143,6 +155,9 @@
     },
     "af_text_and_image_rvrsbl_hGCtLt": {
       "type": "af-text-and-image-rvrsbl",
+      "custom_css": [
+        "* {color: white;}"
+      ],
       "settings": {
         "bg-color": "#212f39",
         "color": "#ffffff",
@@ -164,6 +179,9 @@
     },
     "af_hero_KmjyiN": {
       "type": "af-hero",
+      "custom_css": [
+        "* {color: white;}"
+      ],
       "settings": {
         "fontcolor": "#ffffff",
         "kicker": "Proud to Be",

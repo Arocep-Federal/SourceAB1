@@ -36,6 +36,7 @@
       "block_order": [
         "image_89KRhX"
       ],
+      "custom_css": [],
       "settings": {
         "section_height": "450px",
         "mobile_height": "auto",
@@ -77,6 +78,7 @@
     },
     "contact_quote_qry8bN": {
       "type": "contact-quote",
+      "custom_css": [],
       "settings": {
         "bgimage": "shopify://shop_images/bg17-ab1.jpg",
         "title": "Request for Quote",
