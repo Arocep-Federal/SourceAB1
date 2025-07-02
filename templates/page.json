@@ -93,9 +93,7 @@
         "text_block_fGyd9k",
         "text_block_UhaLAf"
       ],
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "title": "Our Values",
         "fontcolor": "#ffffff",
@@ -105,9 +103,7 @@
     },
     "af_text_and_image_rvrsbl_CY3FVd": {
       "type": "af-text-and-image-rvrsbl",
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "bg-color": "#274c6c",
         "color": "#ffffff",
@@ -129,9 +125,7 @@
     },
     "af_text_and_image_rvrsbl_RRk8B6": {
       "type": "af-text-and-image-rvrsbl",
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "bg-color": "#052037",
         "color": "#ffffff",
@@ -153,9 +147,7 @@
     },
     "af_text_and_image_rvrsbl_hGCtLt": {
       "type": "af-text-and-image-rvrsbl",
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "bg-color": "#212f39",
         "color": "#ffffff",
@@ -177,9 +169,7 @@
     },
     "af_hero_KmjyiN": {
       "type": "af-hero",
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "fontcolor": "#ffffff",
         "kicker": "Proud to Be",
