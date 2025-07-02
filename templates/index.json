@@ -11,9 +11,7 @@
   "sections": {
     "af_vintage_military_X6nPTr": {
       "type": "af-vintage-military",
-      "custom_css": [
-        "* {color: black; text-shadow: none; border-color: black;}"
-      ],
+      "custom_css": [],
       "settings": {
         "kicker": "The Federal",
         "headline": "Distribution Channel of Choice",
@@ -59,9 +57,7 @@
         "heading_VJYRUn",
         "text_EhXWaU"
       ],
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "align_text": "center",
         "font_size": 32,
@@ -189,9 +185,7 @@
     },
     "af_featured_category_ADVbRe": {
       "type": "af-featured-category",
-      "custom_css": [
-        "* {color: white;}"
-      ],
+      "custom_css": [],
       "settings": {
         "title": "Medical Grade Gloves",
         "subtitle": "",
