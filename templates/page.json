@@ -16,9 +16,7 @@
     },
     "af_vintage_military_DNPeCA": {
       "type": "af-vintage-military",
-      "custom_css": [
-        "* {color: white}"
-      ],
+      "custom_css": [],
       "settings": {
         "kicker": "",
         "headline": "Driving Purpose Through Every Procurement",
