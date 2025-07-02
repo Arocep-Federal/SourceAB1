@@ -59,6 +59,9 @@
         "heading_VJYRUn",
         "text_EhXWaU"
       ],
+      "custom_css": [
+        "* {color: white;}"
+      ],
       "settings": {
         "align_text": "center",
         "font_size": 32,
@@ -187,7 +190,7 @@
     "af_featured_category_ADVbRe": {
       "type": "af-featured-category",
       "custom_css": [
-        "h2 {color: white;}"
+        "* {color: white;}"
       ],
       "settings": {
         "title": "Medical Grade Gloves",
