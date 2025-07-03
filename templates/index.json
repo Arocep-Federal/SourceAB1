@@ -120,6 +120,9 @@
         "text_block_GG8g87",
         "text_block_rJwhx4"
       ],
+      "custom_css": [
+        "h2 {color: #002974;}"
+      ],
       "settings": {
         "bg_color": "#d7ebff",
         "image": "shopify://shop_images/bg22-ab1.jpg",
