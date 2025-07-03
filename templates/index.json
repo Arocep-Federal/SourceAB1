@@ -26,7 +26,7 @@
     "af_featured_category_mE6Phb": {
       "type": "af-featured-category",
       "custom_css": [
-        "h2{color: #002974;}"
+        "h2 {color: #002974;}"
       ],
       "settings": {
         "title": "Shop Best Sellers",
@@ -72,6 +72,9 @@
     },
     "af_featured_category_HpAaBm": {
       "type": "af-featured-category",
+      "custom_css": [
+        "h2 {color: #002974;}"
+      ],
       "settings": {
         "title": "Filing Solutions",
         "subtitle": "",
